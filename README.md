@@ -1,6 +1,6 @@
 # Proyecto 5: Demostración de proyecto
 
-Has llegado a tu último proyecto en el bootcamp.
+Has llegado a tu último proyecto en el bootcamp de Fullstack Web Dev.
 
 Es por ello que, para asimilar y fortalecer todos los conocimientos aprendidos, estarás realizando una aplicación `MERN Stack`.
 
